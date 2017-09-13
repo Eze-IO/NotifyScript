@@ -5,6 +5,6 @@ A balloon notification power-shell script :shipit:
 powershell -file note.ps1
 ```
 
-- Edit the settings in the 'note.ps1'
-- Run in command-line like the above
+- Edit the settings inside the 'note.ps1' file
+- Run it in the command-line like the example above
 
